@@ -312,7 +312,11 @@
     },
     "SARKY_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 28.14,
+=======
+      "price": 28.26,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "SEGMN_1D": {
@@ -357,7 +361,11 @@
     },
     "TUREX_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 8.07,
+=======
+      "price": 8.05,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "YEOTK_1D": {
@@ -482,22 +490,34 @@
     },
     "FRIGO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 1.98,
       "is_full": false
     },
     "KRTEK_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 23.9,
+=======
+      "price": 2.0,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "PENGD_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 11.85,
+=======
+      "price": 11.83,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "PRKAB_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 39.04,
+=======
+      "price": 39.2,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "TATGD_1D": {
@@ -521,7 +541,11 @@
     },
     "BINHO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 10.05
+=======
+      "price": 10.03
+>>>>>>> Stashed changes
     },
     "BOBET_1D": {
       "time": "2026-06-22T06:00:00",
@@ -581,7 +605,11 @@
     },
     "HOROZ_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 77.25
+=======
+      "price": 76.85
+>>>>>>> Stashed changes
     },
     "IEYHO_1D": {
       "time": "2026-06-22T06:00:00",
@@ -641,7 +669,11 @@
     },
     "SAMAT_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 7.91
+=======
+      "price": 7.92
+>>>>>>> Stashed changes
     },
     "SANEL_1D": {
       "time": "2026-06-22T06:00:00",
@@ -703,6 +735,13 @@
       "time": "2026-06-23T06:00:00",
       "price": 6.09
     },
+<<<<<<< Updated upstream
+=======
+    "AYCES_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 665.5
+    },
+>>>>>>> Stashed changes
     "BORLS_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 7.79
@@ -763,7 +802,11 @@
     },
     "KOCMT_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 3.16
+=======
+      "price": 3.15
+>>>>>>> Stashed changes
     },
     "KOPOL_1D": {
       "time": "2026-06-22T06:00:00",
@@ -811,7 +854,15 @@
     },
     "BINHO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 10.05
+=======
+      "price": 10.03
+    },
+    "SAMAT_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 7.92
+>>>>>>> Stashed changes
     }
   },
   "last_sent_rsi_macd": {
@@ -829,7 +880,11 @@
     },
     "BINHO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 10.05
+=======
+      "price": 10.03
+>>>>>>> Stashed changes
     },
     "BOBET_1D": {
       "time": "2026-06-22T06:00:00",
@@ -958,6 +1013,10 @@
     "IHLAS_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 1.42
+    },
+    "SAMAT_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 7.92
     }
   },
   "last_sent_ema": {
@@ -1031,7 +1090,11 @@
     },
     "KOCMT_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 3.16
+=======
+      "price": 3.15
+>>>>>>> Stashed changes
     },
     "KOPOL_1D": {
       "time": "2026-06-22T06:00:00",
@@ -1107,7 +1170,15 @@
     },
     "BINHO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 10.05
+=======
+      "price": 10.03
+    },
+    "SAMAT_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 7.92
+>>>>>>> Stashed changes
     }
   },
   "last_sent_macd_cross": {
@@ -1413,7 +1484,11 @@
     },
     "NETAS_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 69.0
+=======
+      "price": 69.15
+>>>>>>> Stashed changes
     },
     "NTHOL_1D": {
       "time": "2026-06-23T06:00:00",
@@ -1524,8 +1599,8 @@
       "price": 27.16
     },
     "TOASO_1D": {
-      "time": "2026-06-22T06:00:00",
-      "price": 331.75
+      "time": "2026-06-23T06:00:00",
+      "price": 323.0
     },
     "TRALT_1D": {
       "time": "2026-06-23T06:00:00",
@@ -1649,6 +1724,7 @@
     },
     "ALCTL_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 168.0
     },
     "BINHO_1D": {
@@ -1670,6 +1746,29 @@
     "GLBMD_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 13.06
+=======
+      "price": 169.1
+    },
+    "BINHO_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 10.03
+    },
+    "CWENE_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 41.04
+    },
+    "DNISI_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 22.76
+    },
+    "EGPRO_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 41.0
+    },
+    "GLBMD_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 13.02
+>>>>>>> Stashed changes
     },
     "SKYMD_1D": {
       "time": "2026-06-23T06:00:00",
@@ -1887,7 +1986,11 @@
     },
     "IZMDC_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 8.84
+=======
+      "price": 8.82
+>>>>>>> Stashed changes
     },
     "KBORU_1D": {
       "time": "2026-06-22T06:00:00",
@@ -1939,11 +2042,15 @@
     },
     "MNDRS_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 11.61
+=======
+      "price": 11.6
+>>>>>>> Stashed changes
     },
     "MNDTR_1D": {
-      "time": "2026-06-22T06:00:00",
-      "price": 5.99
+      "time": "2026-06-23T06:00:00",
+      "price": 6.01
     },
     "MOGAN_1D": {
       "time": "2026-06-23T06:00:00",
@@ -1959,7 +2066,11 @@
     },
     "ODAS_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 9.52
+=======
+      "price": 9.51
+>>>>>>> Stashed changes
     },
     "OSMEN_1D": {
       "time": "2026-06-23T06:00:00",
@@ -1979,7 +2090,11 @@
     },
     "PLTUR_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 23.12
+=======
+      "price": 23.1
+>>>>>>> Stashed changes
     },
     "POLTK_1D": {
       "time": "2026-06-22T06:00:00",
@@ -2187,7 +2302,11 @@
     },
     "ALCTL_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 168.0
+=======
+      "price": 169.1
+>>>>>>> Stashed changes
     },
     "BEGYO_1D": {
       "time": "2026-06-23T06:00:00",
@@ -2199,7 +2318,11 @@
     },
     "CWENE_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 41.12
+=======
+      "price": 41.04
+>>>>>>> Stashed changes
     },
     "DERHL_1D": {
       "time": "2026-06-23T06:00:00",
@@ -2207,11 +2330,27 @@
     },
     "EGPRO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 40.12
     },
     "GWIND_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 27.16
+=======
+      "price": 41.0
+    },
+    "GWIND_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 27.22
+    },
+    "PINSU_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 11.62
+    },
+    "YYLGD_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 11.37
+>>>>>>> Stashed changes
     }
   },
   "last_sent_i9": {
@@ -2273,7 +2412,11 @@
     },
     "KOCMT_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 3.16
+=======
+      "price": 3.15
+>>>>>>> Stashed changes
     },
     "KOPOL_1D": {
       "time": "2026-06-22T06:00:00",
@@ -2329,13 +2472,22 @@
     },
     "BINHO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 10.05
+=======
+      "price": 10.03
+    },
+    "SAMAT_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 7.92
+>>>>>>> Stashed changes
     }
   },
   "last_successful_scans": {
     "2026-06-22_18:30": "2026-06-22 19:42:36",
     "2026-06-23_09:30": "2026-06-23 09:36:51",
     "2026-06-23_11:00": "2026-06-23 11:09:59",
-    "2026-06-23_12:30": "2026-06-23 12:36:47"
+    "2026-06-23_12:30": "2026-06-23 12:36:47",
+    "2026-06-23_14:00": "2026-06-23 14:17:00"
   }
 }
