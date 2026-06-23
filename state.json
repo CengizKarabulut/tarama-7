@@ -382,6 +382,7 @@
     },
     "BEYAZ_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 27.2,
       "is_full": false
     },
@@ -393,6 +394,14 @@
     "MERKO_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 1.78,
+=======
+      "price": 27.22,
+      "is_full": false
+    },
+    "METRO_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 9.11,
+>>>>>>> Stashed changes
       "is_full": false
     }
   },
@@ -451,6 +460,7 @@
     },
     "GIPTA_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 77.3
     },
     "ULUUN_1D": {
@@ -460,6 +470,25 @@
     "UNLU_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 13.26
+=======
+      "price": 77.7
+    },
+    "GOODY_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 20.1
+    },
+    "PINSU_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 11.61
+    },
+    "ULUUN_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 9.59
+    },
+    "UNLU_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 13.2
+>>>>>>> Stashed changes
     }
   },
   "last_sent_new_scan": {
@@ -485,6 +514,7 @@
     },
     "GOODY_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 19.59
     },
     "SKYMD_1D": {
@@ -494,6 +524,17 @@
     "ULUUN_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 9.7
+=======
+      "price": 20.1
+    },
+    "SKYMD_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 14.26
+    },
+    "ULUUN_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 9.59
+>>>>>>> Stashed changes
     }
   },
   "last_sent_rsi_macd": {
@@ -531,6 +572,7 @@
     },
     "GIPTA_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 77.3
     },
     "SKYMD_1D": {
@@ -544,6 +586,25 @@
     "UNLU_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 13.26
+=======
+      "price": 77.7
+    },
+    "SKYMD_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 14.26
+    },
+    "ULUUN_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 9.59
+    },
+    "UNLU_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 13.2
+    },
+    "USAK_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 1.61
+>>>>>>> Stashed changes
     }
   },
   "last_sent_ema": {
@@ -581,6 +642,7 @@
     },
     "EGEPO_1D": {
       "time": "2026-06-23T06:00:00",
+<<<<<<< Updated upstream
       "price": 19.73
     },
     "GIPTA_1D": {
@@ -602,6 +664,25 @@
     "ULUUN_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 9.7
+=======
+      "price": 19.64
+    },
+    "GIPTA_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 77.7
+    },
+    "GOODY_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 20.1
+    },
+    "SKYMD_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 14.26
+    },
+    "ULUUN_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 9.59
+>>>>>>> Stashed changes
     }
   },
   "last_sent_macd_cross": {
@@ -1077,9 +1158,15 @@
       "time": "2026-06-23T06:00:00",
       "price": 43.14
     },
+<<<<<<< Updated upstream
     "CATES_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 41.7
+=======
+    "MSGYO_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 6.68
+>>>>>>> Stashed changes
     }
   },
   "last_sent_h8": {
@@ -1451,6 +1538,7 @@
       "time": "2026-06-23T06:00:00",
       "price": 11.41
     },
+<<<<<<< Updated upstream
     "GOODY_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 19.59
@@ -1462,6 +1550,19 @@
     "PARSN_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 94.15
+=======
+    "LUKSK_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 113.7
+    },
+    "ODAS_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 9.48
+    },
+    "PARSN_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 94.05
+>>>>>>> Stashed changes
     },
     "ULUFA_1D": {
       "time": "2026-06-23T06:00:00",
@@ -1493,6 +1594,7 @@
       "time": "2026-06-23T06:00:00",
       "price": 7.87
     },
+<<<<<<< Updated upstream
     "GOODY_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 19.59
@@ -1504,10 +1606,23 @@
     "ULUUN_1D": {
       "time": "2026-06-23T06:00:00",
       "price": 9.7
+=======
+    "SOKE_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 17.01
+    },
+    "ULUUN_1D": {
+      "time": "2026-06-23T06:00:00",
+      "price": 9.59
+>>>>>>> Stashed changes
     }
   },
   "last_successful_scans": {
     "2026-06-23_14:00": "2026-06-23 14:37:21",
+<<<<<<< Updated upstream
     "2026-06-23_15:30": "2026-06-23 15:37:46"
+=======
+    "2026-06-23_15:30": "2026-06-23 15:45:07"
+>>>>>>> Stashed changes
   }
 }
