@@ -663,7 +663,11 @@
     },
     "ISGYO_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 26.88
+=======
+      "price": 26.76
+>>>>>>> Stashed changes
     },
     "TNZTP_1D": {
       "time": "2026-06-24T06:00:00",
@@ -711,7 +715,11 @@
     },
     "GLBMD_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 14.14
+=======
+      "price": 14.0
+>>>>>>> Stashed changes
     },
     "ISGSY_1D": {
       "time": "2026-06-25T06:00:00",
@@ -719,7 +727,11 @@
     },
     "BANVT_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 179.9
+=======
+      "price": 180.0
+>>>>>>> Stashed changes
     },
     "SNICA_1D": {
       "time": "2026-06-25T06:00:00",
@@ -1019,7 +1031,11 @@
     },
     "GLBMD_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 14.14
+=======
+      "price": 14.0
+>>>>>>> Stashed changes
     },
     "ISGSY_1D": {
       "time": "2026-06-25T06:00:00",
@@ -1031,7 +1047,11 @@
     },
     "BANVT_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 179.9
+=======
+      "price": 180.0
+>>>>>>> Stashed changes
     },
     "RTALB_1D": {
       "time": "2026-06-25T06:00:00",
@@ -1101,7 +1121,11 @@
     },
     "BANVT_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 179.9
+=======
+      "price": 180.0
+>>>>>>> Stashed changes
     },
     "BIGCH_1D": {
       "time": "2026-06-25T06:00:00",
@@ -1237,7 +1261,11 @@
     },
     "ISGYO_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 26.88
+=======
+      "price": 26.76
+>>>>>>> Stashed changes
     },
     "IZMDC_1D": {
       "time": "2026-06-25T06:00:00",
@@ -1691,7 +1719,11 @@
     },
     "ISGYO_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 26.88
+=======
+      "price": 26.76
+>>>>>>> Stashed changes
     },
     "KARTN_1D": {
       "time": "2026-06-25T06:00:00",
@@ -1967,7 +1999,11 @@
     },
     "BANVT_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 179.9
+=======
+      "price": 180.0
+>>>>>>> Stashed changes
     },
     "HATSN_1D": {
       "time": "2026-06-25T06:00:00",
@@ -2045,7 +2081,11 @@
     },
     "ISGYO_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 26.88
+=======
+      "price": 26.76
+>>>>>>> Stashed changes
     },
     "KTSKR_1D": {
       "time": "2026-06-25T06:00:00",
@@ -2089,7 +2129,11 @@
     },
     "BANVT_1D": {
       "time": "2026-06-26T06:00:00",
+<<<<<<< Updated upstream
       "price": 179.9
+=======
+      "price": 180.0
+>>>>>>> Stashed changes
     },
     "SNICA_1D": {
       "time": "2026-06-25T06:00:00",
@@ -2115,6 +2159,10 @@
     "2026-06-25_18:30": "2026-06-25 18:43:24",
     "2026-06-26_09:30": "2026-06-26 09:36:47",
     "2026-06-26_11:00": "2026-06-26 11:06:50",
+<<<<<<< Updated upstream
     "2026-06-26_12:30": "2026-06-26 12:43:21"
+=======
+    "2026-06-26_12:30": "2026-06-26 12:49:15"
+>>>>>>> Stashed changes
   }
 }
