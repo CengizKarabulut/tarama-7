@@ -47,6 +47,26 @@
       "time": "2026-06-29T06:00:00",
       "price": 108.4,
       "detected_at": "2026-06-29T17:22:49+03:00"
+    },
+    "BSOKE_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 37.16,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "DMSAS_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 10.05,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "HEDEF_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 153.5,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "OZYSR_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 12.59,
+      "detected_at": "2026-06-29T18:36:35+03:00"
     }
   },
   "last_sent_rsi_macd": {
@@ -54,6 +74,11 @@
       "time": "2026-06-29T06:00:00",
       "price": 108.4,
       "detected_at": "2026-06-29T17:22:49+03:00"
+    },
+    "OZYSR_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 12.59,
+      "detected_at": "2026-06-29T18:36:35+03:00"
     }
   },
   "last_sent_ema": {
@@ -81,6 +106,26 @@
       "time": "2026-06-29T06:00:00",
       "price": 96.0,
       "detected_at": "2026-06-29T17:22:49+03:00"
+    },
+    "BSOKE_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 37.16,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "DMSAS_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 10.05,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "OZYSR_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 12.59,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "UNLU_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 14.71,
+      "detected_at": "2026-06-29T18:36:35+03:00"
     }
   },
   "last_sent_macd_cross": {
@@ -103,6 +148,16 @@
       "time": "2026-06-29T06:00:00",
       "price": 108.4,
       "detected_at": "2026-06-29T17:22:49+03:00"
+    },
+    "HEDEF_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 153.5,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "OZYSR_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 12.59,
+      "detected_at": "2026-06-29T18:36:35+03:00"
     }
   },
   "last_sent_h8": {
@@ -120,6 +175,16 @@
       "time": "2026-06-29T06:00:00",
       "price": 108.4,
       "detected_at": "2026-06-29T17:22:49+03:00"
+    },
+    "HEDEF_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 153.5,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "OZYSR_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 12.59,
+      "detected_at": "2026-06-29T18:36:35+03:00"
     }
   },
   "last_sent_i9": {
@@ -132,6 +197,16 @@
       "time": "2026-06-29T06:00:00",
       "price": 108.4,
       "detected_at": "2026-06-29T17:22:49+03:00"
+    },
+    "HEDEF_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 153.5,
+      "detected_at": "2026-06-29T18:36:35+03:00"
+    },
+    "OZYSR_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 12.59,
+      "detected_at": "2026-06-29T18:36:35+03:00"
     }
   },
   "signal_history": [
@@ -326,11 +401,132 @@
       "bar_time": "2026-06-29T06:00:00",
       "detected_at": "2026-06-29T17:22:49+03:00",
       "price": 108.4
+    },
+    {
+      "symbol": "BSOKE",
+      "period": "1D",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 37.16
+    },
+    {
+      "symbol": "BSOKE",
+      "period": "1D",
+      "strategy": "ema",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 37.16
+    },
+    {
+      "symbol": "DMSAS",
+      "period": "1D",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 10.05
+    },
+    {
+      "symbol": "DMSAS",
+      "period": "1D",
+      "strategy": "ema",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 10.05
+    },
+    {
+      "symbol": "HEDEF",
+      "period": "1D",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 153.5
+    },
+    {
+      "symbol": "HEDEF",
+      "period": "1D",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 153.5
+    },
+    {
+      "symbol": "HEDEF",
+      "period": "1D",
+      "strategy": "h8",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 153.5
+    },
+    {
+      "symbol": "HEDEF",
+      "period": "1D",
+      "strategy": "i9",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 153.5
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "1D",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 12.59
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "1D",
+      "strategy": "rsi_macd",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 12.59
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "1D",
+      "strategy": "ema",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 12.59
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "1D",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 12.59
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "1D",
+      "strategy": "h8",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 12.59
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "1D",
+      "strategy": "i9",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 12.59
+    },
+    {
+      "symbol": "UNLU",
+      "period": "1D",
+      "strategy": "ema",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T18:36:35+03:00",
+      "price": 14.71
     }
   ],
   "last_successful_scans": {
     "2026-06-29_14:00": "2026-06-29 14:36:45",
     "2026-06-29_15:30": "2026-06-29 15:36:55",
-    "2026-06-29_17:15": "2026-06-29 17:23:04"
+    "2026-06-29_17:15": "2026-06-29 17:23:04",
+    "2026-06-29_18:30": "2026-06-29 18:36:49"
   }
 }
