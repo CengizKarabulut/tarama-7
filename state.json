@@ -21,8 +21,13 @@
   "last_sent_new_scan": {
     "BALSU_1D": {
       "time": "2026-06-29T06:00:00",
+<<<<<<< Updated upstream
       "price": 18.85,
       "detected_at": "2026-06-29T14:11:45+03:00"
+=======
+      "price": 18.89,
+      "detected_at": "2026-06-29T14:17:31+03:00"
+>>>>>>> Stashed changes
     },
     "BANVT_1D": {
       "time": "2026-06-26T06:00:00",
@@ -78,6 +83,11 @@
       "time": "2026-06-29T06:00:00",
       "price": 4.65,
       "detected_at": "2026-06-29T11:06:31+03:00"
+    },
+    "ISBTR_1D": {
+      "time": "2026-06-29T06:00:00",
+      "price": 475000.0,
+      "detected_at": "2026-06-29T14:17:31+03:00"
     }
   },
   "last_sent_rsi_macd": {
@@ -91,8 +101,13 @@
     },
     "BALSU_1D": {
       "time": "2026-06-29T06:00:00",
+<<<<<<< Updated upstream
       "price": 18.85,
       "detected_at": "2026-06-29T14:11:45+03:00"
+=======
+      "price": 18.89,
+      "detected_at": "2026-06-29T14:17:31+03:00"
+>>>>>>> Stashed changes
     }
   },
   "last_sent_ema": {
@@ -154,8 +169,13 @@
   "last_sent_macd_cross": {
     "BALSU_1D": {
       "time": "2026-06-29T06:00:00",
+<<<<<<< Updated upstream
       "price": 18.85,
       "detected_at": "2026-06-29T14:11:45+03:00"
+=======
+      "price": 18.89,
+      "detected_at": "2026-06-29T14:17:31+03:00"
+>>>>>>> Stashed changes
     },
     "BANVT_1D": {
       "time": "2026-06-26T06:00:00",
@@ -243,7 +263,11 @@
     "2026-06-29_09:30": "2026-06-29 09:36:39",
     "2026-06-29_11:00": "2026-06-29 11:06:44",
     "2026-06-29_12:30": "2026-06-29 12:37:18",
+<<<<<<< Updated upstream
     "2026-06-29_14:00": "2026-06-29 14:11:58"
+=======
+    "2026-06-29_14:00": "2026-06-29 14:17:42"
+>>>>>>> Stashed changes
   },
   "signal_history": [
     {
@@ -291,24 +315,47 @@
       "period": "1D",
       "strategy": "new_scan",
       "bar_time": "2026-06-29T06:00:00",
+<<<<<<< Updated upstream
       "detected_at": "2026-06-29T14:11:45+03:00",
       "price": 18.85
+=======
+      "detected_at": "2026-06-29T14:17:31+03:00",
+      "price": 18.89
+>>>>>>> Stashed changes
     },
     {
       "symbol": "BALSU",
       "period": "1D",
       "strategy": "rsi_macd",
       "bar_time": "2026-06-29T06:00:00",
+<<<<<<< Updated upstream
       "detected_at": "2026-06-29T14:11:45+03:00",
       "price": 18.85
+=======
+      "detected_at": "2026-06-29T14:17:31+03:00",
+      "price": 18.89
+>>>>>>> Stashed changes
     },
     {
       "symbol": "BALSU",
       "period": "1D",
       "strategy": "macd_cross",
       "bar_time": "2026-06-29T06:00:00",
+<<<<<<< Updated upstream
       "detected_at": "2026-06-29T14:11:45+03:00",
       "price": 18.85
+=======
+      "detected_at": "2026-06-29T14:17:31+03:00",
+      "price": 18.89
+    },
+    {
+      "symbol": "ISBTR",
+      "period": "1D",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-29T06:00:00",
+      "detected_at": "2026-06-29T14:17:31+03:00",
+      "price": 475000.0
+>>>>>>> Stashed changes
     }
   ]
 }
